@@ -4,7 +4,7 @@
  * @Author: shinonome
  * @Date: 2021-03-08 21:46:40
  * @LastEditor: shinonome
- * @LastEditTime: 2021-03-09 00:42:34
+ * @LastEditTime: 2022-04-23 18:52:02
  */
 
 #include "matrix.h"
@@ -17,7 +17,6 @@ int main(int argc, const char *argv[]) {
 	// cout << Mymatrix << endl;
 	matrix<double, 3, 3> Matrix(5);
 	cin >> Matrix;
-	cout << Matrix.Gaussian_elimination();
 	cout << Matrix.det() << endl;
 
 	return 0;
