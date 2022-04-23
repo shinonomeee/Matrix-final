@@ -1,9 +1,11 @@
-//
-//  Array.cpp
-//  13.0
-//
-//  Created by shinonome on 2021/3/16.
-//
+/*
+ * @Description: 
+ * @version: 
+ * @Author: shinonome
+ * @Date: 2021-09-24 20:13:39
+ * @LastEditor: shinonome
+ * @LastEditTime: 2022-04-23 18:44:56
+ */
 
 #include "classdef.h"
 
